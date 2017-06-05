@@ -3,6 +3,9 @@
 
 Testing for Git.
 
+**Releases**
+- v1.0
+
 **Features**
 - NewThing1
 - NewThing2

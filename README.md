@@ -6,6 +6,7 @@ Testing for Git.
 **Features**
 - NewThing1
 - NewThing2
+- NewThing3
 
 **Todo**
 - Test events

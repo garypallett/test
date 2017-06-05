@@ -3,6 +3,9 @@
 
 Testing for Git.
 
+**Features**
+- NewThing3
+
 **Todo**
 - Test linking commit to story
 - Test events

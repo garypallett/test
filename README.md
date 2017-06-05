@@ -10,5 +10,6 @@ Testing for Git.
 
 **Todo**
 - Test events
+- Test Rebase
 
 _Initial **.gitignore** was added by GitHub (with defaults for C++)_

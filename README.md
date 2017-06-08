@@ -12,6 +12,7 @@ Testing for Git.
 - NewThing3
 - NewThing4
 - NewThing5
+- NewThing8
 
 **Todo**
 - Test events
